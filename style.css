@@ -10,6 +10,9 @@ header{
     color: #212F3C;
 }
 
+head{
+margin: 0px 150px 0px 150px;
+}
 
 body{
   margin: 10px 150px 10px 150px;
