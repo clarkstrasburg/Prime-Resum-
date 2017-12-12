@@ -86,10 +86,11 @@ a:active{
 
 hr { 
     display: block;
+    color: #212F3C;
     margin-top: 0.5em;
     margin-bottom: 0.5em;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 100px;
+    margin-right: 100px;
     border-style: inset;
     border-width: 1px;
 }
