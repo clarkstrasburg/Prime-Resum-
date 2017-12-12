@@ -1,8 +1,13 @@
 
 
 header{
-  margin: 10px 150px 10px 150px;
-  font-family: Fjalla One;
+  font-family: 'Fjalla One', sans-serif;
+    font-weight: normal;
+    text-transform: uppercase;
+    line-height: 46px;
+    font-size: 43px;
+    margin: 0 0 23px 0;
+    color: #212F3C;
 }
 
 
@@ -13,37 +18,50 @@ body{
 
 
 h1{
-  margin: 10px 150px 10px 150px;
-  font-size: 2.75em;
-  font-style: bold;
-  color: #212F3C;
-  font-family: Fjalla One;
+  font-family: 'Fjalla One', sans-serif;
+    font-weight: normal;
+    text-transform: uppercase;
+    line-height: 46px;
+    font-size: 43px;
+    margin: 0px 150px 23px 150px;
+    color: #212F3C;
 }
 
 h2{
- margin: 10px 150px 10px 150px; 
- font-size: 2.00em;
- font-family: cantarell;
- color: #212F3C;
+font-family: 'Cantarell', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    text-transform: uppercase;
+    letter-spacing: -1px;
+    margin: 0px 150px 23px 150px;
+    color: #212F3C;
 }
 
 h3{
-  margin: 10px 150px 10px 150px;
-  font-size: 1.50em;
-  font-family: cantarell;
-  color: #212F3C;
+  font-family: 'Cantarell', sans-serif;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 23px;
+    text-transform: uppercase;
+    letter-spacing: -1px;
+    margin: 0px 150px 23px 150px;
+    color: #212F3C;
 }
 
 ul{
-  margin: 10px 150px 10px 150px;
-  font-family: cantarell;
-  color: #212F3C;
+   font-family: 'Cantarell', sans-serif;
+    font-size: 17px;
+    line-height: 23px;
+    margin: 0 0 23px 0;
+    color: #212F3C;
 }
 
 
 p{
-margin: 10px 150px 10px 150px;
-color: #212F3C;
-font-size: 1.00em;
-font-family: cantarell;
+    font-family: 'Cantarell', sans-serif;
+    font-size: 17px;
+    line-height: 23px;
+    margin: 0 0 23px 0;
+    color: #212F3C;
 }
