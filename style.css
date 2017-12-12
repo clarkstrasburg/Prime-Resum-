@@ -49,14 +49,6 @@ h3{
     color: #212F3C;
 }
 
-ul{
-   font-family: 'Cantarell', sans-serif;
-    font-size: 17px;
-    line-height: 23px;
-    margin: 0px 150px 23px 150px;
-    color: #212F3C;
-}
-
 
 p{
     font-family: 'Cantarell', sans-serif;
@@ -65,3 +57,25 @@ p{
     margin: 0px 150px 23px 150px;
     color: #212F3C;
 }
+
+ul{
+   font-family: 'Cantarell', sans-serif;
+    font-size: 17px;
+    line-height: 23px;
+    margin: 0px 150px 23px 150px;
+    color: #212F3C;
+}
+
+a:link{
+  color: #F39C12
+}
+a:visited{
+  color: #DC7633
+}
+a:hover{
+  color: #DC7633
+}
+a:active{
+  color: #DC7633
+}
+
