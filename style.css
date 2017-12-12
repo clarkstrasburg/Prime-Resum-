@@ -1,12 +1,14 @@
+
+
 header{
   margin: 10px 150px 10px 150px;
 }
+
 
 body{
   margin: 10px 150px 10px 150px;
   background-color: #FDFEFE;
 }
-
 
 
 h1{
@@ -17,6 +19,10 @@ h1{
   font-family: arial;
 }
 
+
+ul{
+  margin: 10px 150px 10px 150px;
+}
 
 
 p{
