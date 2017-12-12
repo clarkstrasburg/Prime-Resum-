@@ -3,12 +3,14 @@ header{
 }
 
 body{
+  margin: 10px 150px 10px 150px;
   background-color: #FDFEFE;
 }
 
 
 
 h1{
+  margin: 10px 150px 10px 150px;
   font-size: 2.75em;
   font-style: bold;
   color: #212F3C;
