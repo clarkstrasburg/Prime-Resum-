@@ -6,12 +6,12 @@ header{
     text-transform: uppercase;
     line-height: 46px;
     font-size: 43px;
-    margin: 0px 150px 23px 150px;
+    margin: 0px 100px 23px 100px;
     color: #212F3C;
 }
 
 body{
-  margin: 10px 150px 10px 150px;
+  margin: 10px 100px 10px 100px;
   background-color: #FDFEFE;
 }
 
@@ -22,7 +22,7 @@ h1{
     text-transform: uppercase;
     line-height: 46px;
     font-size: 60px;
-    margin: 150px 150px 23px 150px;
+    margin: 150px 100px 23px 100px;
     color: #212F3C;
 }
 
@@ -33,7 +33,7 @@ font-family: 'Cantarell', sans-serif;
     line-height: 23px;
     text-transform: uppercase;
     letter-spacing: -1px;
-    margin: 0px 150px 23px 150px;
+    margin: 0px 100px 23px 100px;
     color: #212F3C;
 }
 
@@ -44,7 +44,7 @@ h3{
     line-height: 23px;
     text-transform: uppercase;
     letter-spacing: -1px;
-    margin: 0px 150px 23px 150px;
+    margin: 0px 100px 23px 100px;
     color: #212F3C;
 }
 
@@ -53,7 +53,7 @@ p{
     font-family: 'Cantarell', sans-serif;
     font-size: 17px;
     line-height: 23px;
-    margin: 0px 150px 23px 150px;
+    margin: 0px 100px 23px 100px;
     color: #212F3C;
 }
 
@@ -61,7 +61,7 @@ ul{
    font-family: 'Cantarell', sans-serif;
     font-size: 17px;
     line-height: 23px;
-    margin: 0px 150px 23px 150px;
+    margin: 0px 100px 23px 100px;
     color: #212F3C;
 }
 
